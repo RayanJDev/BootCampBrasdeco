@@ -1,4 +1,4 @@
-# BootCampBrasdeco
+# BootCampBradesco
 
 Projeto desenvolvido como parte do Bootcamp Bradesco, com foco em práticas de desenvolvimento Java e fundamentos de programação orientada a objetos.
 
